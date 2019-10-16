@@ -1,11 +1,3 @@
-*/target
+*/target/rls
 /target
-**/*.rs.bk
-*.rb
-_*.rs
-*.xcf
-*.svg
-*.sketch
-*.png
-*.jpeg
-pitch.md
+Cargo.lock
